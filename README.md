@@ -10,7 +10,7 @@ Analysis of the Kaggle dataset https://www.kaggle.com/clmentbisaillon/fake-and-r
 
 - Wordclouds, N-grams
 
-![Data](assets/wordcloud_fake.PNG)
+![Data](assets/wordcloud_fake.png)
 
 ![Data](assets/2_gram.png)
 
