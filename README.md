@@ -6,13 +6,21 @@ Analysis of the Kaggle dataset https://www.kaggle.com/clmentbisaillon/fake-and-r
 
 - Preprocessing of the data
 
+![Data](assets/dataset.PNG)
+
 - Wordclouds, N-grams
 
-- Sentiment analysis
+![Data](assets/wordcloud_fake.PNG)
 
-- LDA for topic modeling
+![Data](assets/2_gram.png)
+
+- Sentiment analysis, LDA for topic modeling
+
+![Data](assets/topics.PNG)
 
 - Gephi graph
+
+![Data](assets/graph_gephi_2.PNG)
 
 - Fake/Real prediciton (ML and LSTM)
 
